@@ -31,7 +31,7 @@
 
 
 ### Codewar stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marat01)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marat01&theme=dark)](https://github.com/madushadhanushka/github-readme)
 
 ### Codewar stats
 [![Codewars Badge](https://www.codewars.com/users/MaratSharshenaliev/badges/large)](https://www.codewars.com/users/MaratSharshenaliev)
