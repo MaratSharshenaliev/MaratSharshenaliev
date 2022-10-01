@@ -30,7 +30,7 @@
 
 
 
-### Codewar stats
+### Leetcode stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marat01&theme=dark)](https://github.com/madushadhanushka/github-readme)
 
 ### Codewar stats
