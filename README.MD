@@ -5,6 +5,8 @@
 # Hi there, I'm Marat ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Software engineer, IT news writer from Kyrgyztan 🇰🇬
 
+# My skils of programming
+
 ### Leetcode stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Marat01&theme=dark)](https://github.com/madushadhanushka/github-readme)
 
